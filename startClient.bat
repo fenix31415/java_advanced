@@ -1,0 +1,1 @@
+java -cp .\_build ru.ifmo.rain.klepov.bank.Client %1 %2 %3 %4 %5

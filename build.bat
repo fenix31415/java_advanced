@@ -1,0 +1,1 @@
+javac -d .\_build -cp ..\java-advanced-2020\lib\* .\java-solutions\ru\ifmo\rain\klepov\bank\*.java
